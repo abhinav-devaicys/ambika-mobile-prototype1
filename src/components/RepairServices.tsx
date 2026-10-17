@@ -2,7 +2,12 @@ import { motion } from "motion/react";
 import { useState } from "react";
 
 const repairServices = [
-  "Screen Repair", "Battery Replacement", "Charging Port", "Speaker/Mic Faults", "Camera Issues", "Software Errors"
+  "Display & Screen Repairs",
+  "Battery & Charging Issues",
+  "Hardware Troubleshooting",
+  "Software Errors",
+  "General Mobile Servicing",
+  "Accessories Setup"
 ];
 
 export default function RepairServices() {

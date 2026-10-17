@@ -8,11 +8,11 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
       >
-        <h1 className="text-6xl md:text-8xl font-bold tracking-tighter text-white mb-6">
-          Technology. <span className="text-gray-500">Refined.</span>
+        <h1 className="text-6xl md:text-8xl font-extrabold tracking-tighter text-white mb-6">
+          Ambika Mobile.
         </h1>
-        <p className="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-10">
-          Discover your next device. Get expert repairs. Experience service that puts you first.
+        <p className="text-xl md:text-2xl text-gray-300 max-w-2xl mx-auto mb-10 font-light">
+          Your Mobile, Our Priority. Quality Sales & Expert Repairs in Gwalior.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a href="#products" className="bg-white text-black px-8 py-3 rounded-full font-medium hover:bg-gray-200 transition-colors">
